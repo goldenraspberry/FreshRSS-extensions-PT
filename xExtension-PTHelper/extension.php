@@ -22,6 +22,6 @@ class PTHelperExtension extends Minz_Extension {
         }
 
 
-
+        return $entry;
     }
 }
