@@ -1,0 +1,8 @@
+{
+  "name": "PTHelper",
+  "author": "i365star",
+  "description": "fix some compatible problem for some pt sites, and parse the message for the pt torrents",
+  "version": 1.0,
+  "entrypoint": "PTHelper",
+  "type": "user"
+}
